@@ -1,0 +1,10 @@
+colleagues websites:
+
+www.veronicavlairaerial.com
+(broken menu code, broken instagram feed display. overall similar intention, responsive)
+
+http://www.paperdollmilitia.com/
+(responsive, not best nav practices, not similar intention, kind of ugly)
+
+https://www.zoegaillardbizot.com/
+(similar one page design, built with wix, overall okay)
